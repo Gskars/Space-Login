@@ -1,4 +1,4 @@
-# Space Login: O cadastro das estrelas
+# Space Login: O cadastro entre as estrelas
 <h2>Fala, rede!!
 Mas afinal de contas, vocês ja fizeram  seu cadastro Espacial? Ainda tem alguns lugares para a Maior aventura da raça  humana. Esse projeto
  de "Login-Page" foi realizado e pensado com foco na corrida Espacial que levará o homem à lua em 2024. Foram utilizadas as linguagens HTML e CSS.
