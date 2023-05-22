@@ -15,7 +15,7 @@ Mas afinal de contas, vocês ja fizeram  seu cadastro Espacial? Ainda tem alguns
 - CSS
 - GIT E GITHUB
 # Contatos:
-- Email: gscardazi.dev@outlook.com
+- Email: gscardazi@hotmail.com
 - Linkedin: https://www.linkedin.com/in/guilherme-scardazi-67875a1b8/
 
 
